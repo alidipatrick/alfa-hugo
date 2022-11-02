@@ -7,18 +7,18 @@ main:
   - name: Home
     url: '/'
     weight: 10
-  - name: Courses
-    url: '/course'
+  - name: Projets
+    url: '/projet'
     weight: 20
-    identifier: courses
+    identifier: projets
   - name: Slides
     url: '/slides/example/'
     weight: 10
-    parent: courses
-  - name: Data science
-    url: '/course/example/'
+    parent: projets
+  - name: L’environnement
+    url: '/projet/example/'
     weight: 10
-    parent: courses
+    parent: projets
   - name: Blog
     url: '/post'
     weight: 30

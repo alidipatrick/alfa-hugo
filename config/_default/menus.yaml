@@ -5,23 +5,55 @@
 
 main:
   - name: Home
+    pre: '<i class="fa fa-home"></i>&nbsp;'
     url: '/'
     weight: 10
   - name: Projets
     url: '/projet'
+    pre: '<i class="fas fa-users-gear"></i>&nbsp;'
     weight: 20
     identifier: projets
-  - name: Slides
-    url: '/slides/example/'
-    weight: 10
-    parent: projets
-  - name: L’environnement
-    url: '/projet/example/'
-    weight: 10
-    parent: projets
   - name: Blog
     url: '/post'
+    pre: '<i class="fa fa-blog"></i>&nbsp;'
     weight: 30
+    identifier: blog
+  - name: Environnement
+    url: '/projet/environnement/'
+    pre: '<i class="fa fa-seedling"></i>&nbsp;'
+    weight: 10
+    parent: projets
+  - name: Éducation
+    pre: '<i class="fa fa-chalkboard-user"></i>&nbsp;'
+    url: '#'
+    weight: 20
+    parent: projets
+  - name: Santé & Hygiène
+    pre: '<i class="fa fa-shield-virus"></i>&nbsp;'
+    url: '#'
+    weight: 30
+    parent: projets
+  - name: Jeunesse
+    pre: '<i class="fa fa-children"></i>&nbsp;'
+    url: '#'
+    weight: 40
+    parent: projets
+  - name: Entrepreneuriat
+    pre: '<i class="fa fa-person-digging"></i>&nbsp;'
+    url: '#'
+    weight: 50
+    parent: projets
+  - name: Articles
+    pre: '<i class="fa fa-feather-pointed"></i>&nbsp;'
+    url: '/post'
+    weight: 30
+    parent: blog
+  - name: Slides
+    pre: '<i class="fa fa-display"></i>&nbsp;'
+    url: '/slides/example/'
+    weight: 40
+    parent: blog
   - name: Contact
+    pre: '<i class="fa fa-envelope"></i>&nbsp;'
     url: '/contact'
     weight: 60

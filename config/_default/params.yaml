@@ -50,6 +50,11 @@ footer:
       share_alike: true
       allow_commercial: false
 
+# Hide Powered By mention
+power_ups:
+  hide_published_with: true
+i_am_a_sponsor: true
+
 # Localization
 
 locale:

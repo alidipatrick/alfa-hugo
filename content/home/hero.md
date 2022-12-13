@@ -21,9 +21,9 @@ design:
     text_color_light: true
 cta:
   url: projet/
-  label: Explorer nos projets
+  label: 🏗 Explorer nos projets
   icon_pack: far
-  icon: trowel-bricks
+  icon: 
 cta_alt:
   url:
   label:

@@ -1,5 +1,6 @@
 ---
 title: Ready to learn?
+active: false
 subtitle:
 widget: blank
 weight: 50

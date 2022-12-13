@@ -2,7 +2,17 @@
 title: 🏗 Projets
 type: page
 
-view: compact
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Masonry
+#   5 = showcase
+view: 3
+columns: '1'
+flip_alt_rows: true
+background: {}
+spacing: {padding: [0, 0, 0, 0]}
 
 header:
   caption: ''

@@ -30,14 +30,25 @@ cta_alt:
 cta_note:
   label:
 advanced:
-  css_class: fullscreen
+  css_class: #fullscreen
 ---
 
-<!-- <br>
-<div background="white"> -->
-Let us rise Africa together
-
-Ensemble, élevons l’Afrique
-
-’Ndeha isika hiara-hanandratra an’ i Afrika
-<!-- </div> -->
+<div id="slogan-multilang" class="carousel slide" data-ride="carousel" data-interval="4000">
+  <div class="carousel-inner">
+    <div class="carousel-item active" style="height: 13vh;">
+      <h2 class="hero-lead">
+       <!-- class="d-block w-100"> -->
+Ensemble, élevons l’Afrique</h2>
+    </div>
+    <div class="carousel-item" style="height: 13vh;">
+      <h2 class="hero-lead">
+       <!-- class="d-block w-100"> -->
+       Let us rise Africa together</h2>
+    </div>
+    <div class="carousel-item" style="height: 13vh;">
+      <h2 class="hero-lead">
+       <!-- class="d-block w-100"> -->
+       ’Ndeha isika hiara-hanandratra an’ i Afrika</h2>
+    </div>
+  </div>
+</div>

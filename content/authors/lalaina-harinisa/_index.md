@@ -45,6 +45,9 @@ social:
 #- icon: twitter
 # icon_pack: fab
 # link: https://twitter.com/USERNAME
+- icon: linkedin
+  icon_pack: fab
+  link: 'https://www.linkedin.com/in/lalaina-harinisa-andrianaivosoa-9974961b4'
 - icon: facebook-f
   icon_pack: fab
   link: https://www.facebook.com/mimisou.anialal

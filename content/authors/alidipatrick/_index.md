@@ -1,7 +1,7 @@
 ---
 # Display name
-#title: 'Alain D. Patrick (AlidiPatrick)'
-title: AlidiPatrick
+title: 'Alain D. Patrick Ramanatanana (AlidiPatrick)'
+#title: AlidiPatrick
 link: "/u/alidipatrick"
 
 # Is this the primary user of the site?

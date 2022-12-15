@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Dyl Mandress
+title: Mahefa Odilon ANDRIAMANDRESY
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Chercheur en Marketing
+role: Responsable financier
 
 # Organizations/Affiliations
 organizations:
-  - name: Fenoy
+  - name: ALFA MAdagascar
     url: ''
   - name: OLO Blaky
     url: https://oloblaky.com/
@@ -18,7 +18,7 @@ organizations:
     url: https://katzenjam.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Bio tsotsotra
+bio: 
 
 interests:
   - Marketing
@@ -27,24 +27,27 @@ interests:
 
 education:
   courses:
-    - course: Marketing & Management
-      institution: IMGAM
+    - course: Attestation du Centre de Formation en Commerce International et Concurrence (CFCIC)
+      institution: Ministère du Commerce Antananarivo
+      year: 2012
+    - course: Diplôme d’Études Supérieures en Management Bacc+4
+      institution: École Supérieure Sacré-Cœur Antanimena (ESSCA) ANTANANARIVO
+      year: 2011
+    - course: Diplôme d’Etudes Supérieures Professionnelles Spécialisées Bacc+3
+      institution: École Supérieure Sacré-Cœur Antanimena (ESSCA) ANTANANARIVO
+      year: 2010
+    - course: Diplôme de Technicien Supérieur Bacc+2
+      institution: École Supérieure Sacré-Cœur Antanimena (ESSCA) ANTANANARIVO
       year: 2009
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: id-card
-    icon_pack: far
-    link: /u/dyl.mandress
+# - icon: id-card
+#   icon_pack: far
+#   link: /u/dyl.mandress
   - icon: envelope
     icon_pack: fas
     link: 'mailto:odilonandriamandresy@gmail.com'
@@ -56,17 +59,17 @@ social:
 #   link: '/about/#pay-me'
   - icon: whatsapp
     icon_pack: fab
-    link: https://wa.me/261341515920
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/alidipatrick
+    link: https://wa.me/261330683142
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/alidipatrick
 # - icon: github
 #   icon_pack: fab
 #   link: https://github.com/dyl.mandress
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/dyl_mandress
-  - icon: facebook
+  - icon: facebook-f
     icon_pack: fab
     link: https://www.facebook.com/100001744251871/
 # Link to a PDF of your resume/CV from the About widget.
@@ -84,9 +87,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Administration
   - Chercheurs
 ---
 
-Odilon Andriamandresy dia...
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sérieux, aisance relationnelle, doté de capacités méthodologiques, intègre, capable de travailler en équipe, forte capacité d’adaptation.

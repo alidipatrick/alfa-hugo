@@ -5,7 +5,7 @@ weight: 30
 title: Explorer nos projets
 subtitle:
 content:
-  page_type: projet
+  page_type: project
   filter_default: 0
 
   filter_button:

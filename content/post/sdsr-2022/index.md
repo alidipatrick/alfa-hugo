@@ -84,4 +84,4 @@ header:
 
 🔸ALFA Madagascar continue de s’engager dans la réalisation de projets portant sur l’éducation, l’environnement, la santé et l’hygiène, la promotion de la jeunesse et l’entrepreneuriat.
 
-{{< gallery album="sdsr2022">}}
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3Dpfbid02JuYYBMQ1jaqXQN5LFtgTQ32WbEMxmvPGa8CVeDde2AL3nadb8jsZDPb84pzSXrwKl%26id%3D103852947735216&show_text=true&width=500" width="500" height="735" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>

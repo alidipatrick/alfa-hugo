@@ -9,7 +9,7 @@ main:
     url: '/'
     weight: 10
   - name: Projets
-    url: '/projet'
+    url: '/project'
     pre: '<i class="fas fa-users-gear"></i>&nbsp;'
     weight: 20
     identifier: projets
@@ -19,7 +19,7 @@ main:
     weight: 30
     identifier: blog
   - name: Environnement
-    url: '/projet/environnement/'
+    url: '/project/environnement/'
     pre: '<i class="fa fa-seedling"></i>&nbsp;'
     weight: 10
     parent: projets
@@ -30,17 +30,17 @@ main:
     parent: projets
   - name: Santé & Hygiène
     pre: '<i class="fa fa-shield-virus"></i>&nbsp;'
-    url: '#'
+    url: '/project/sante-hygiene'
     weight: 30
     parent: projets
   - name: Jeunesse
     pre: '<i class="fa fa-children"></i>&nbsp;'
-    url: '#'
+    url: '/project/jeunesse'
     weight: 40
     parent: projets
   - name: Entrepreneuriat
     pre: '<i class="fa fa-person-digging"></i>&nbsp;'
-    url: '#'
+    url: '/project/entrepreneuriat'
     weight: 50
     parent: projets
   - name: Articles

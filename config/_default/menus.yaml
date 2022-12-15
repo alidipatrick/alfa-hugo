@@ -25,7 +25,7 @@ main:
     parent: projets
   - name: Éducation
     pre: '<i class="fa fa-chalkboard-user"></i>&nbsp;'
-    url: '#'
+    url: '/project/education'
     weight: 20
     parent: projets
   - name: Santé & Hygiène

@@ -21,7 +21,10 @@ content:
       icon_pack: fas
       name: Discuss on the forum
       link: 'https://github.com/wowchemy/wowchemy-hugo-themes/discussions'
-
+    - icon: facebook
+      icon_pack: fab
+      name: ALFA Madagascar sur Facebook
+      link: 'https://www.facebook.com/ALFA-Madagascar-103852947735216'
   # Automatically link email and phone or display as text?
   autolink: true
 

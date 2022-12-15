@@ -58,7 +58,7 @@ commentable: true
 
 # Allow visitors to make improvements to the page?
 # Requires a repository to be configured in `params.yaml`
-editable: true
+editable: false
 
 # Show a link to the next article in the series?
 pager: true

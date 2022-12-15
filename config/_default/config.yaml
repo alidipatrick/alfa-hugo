@@ -14,12 +14,13 @@ description: "Notre vision: Plus nombreux seront les acteurs, plus grand sera lâ
 cascade:
   # Docs folder options
   - _target:
-      path: /course/**
-    editable: true
+      path: /project/**
+    editable: false
     show_breadcrumb: true
   # Blog post folder options
   - _target:
       path: /post/**
+    editable: false
     show_related: true
 
 ############################

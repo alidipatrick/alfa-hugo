@@ -18,7 +18,7 @@ content:
   user_groups:
     - 'Administration'
     - 'DevOps'
-    - 'Chercheurs'
+#   - 'Chercheurs'
   
 design:
   show_interests: false

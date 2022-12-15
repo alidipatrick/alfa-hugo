@@ -3,12 +3,12 @@
 # Activate this widget? true/false
 active: true
 
-title: "Sante & Hygiène"
+title: "Santé & Hygiène"
 summary: ""
 authors: []
 tags: 
-  - santé
-categories: []
+  - 'santé'
+categories: ['projets','santé','hygiène']
 date: 2022-12-15T00:35:56+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -40,7 +40,7 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['sante-hygiene']
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

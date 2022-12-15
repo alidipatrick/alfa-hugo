@@ -8,7 +8,9 @@ summary: ""
 authors: []
 tags: 
   - éducation
-categories: []
+
+categories: 
+  - projets
 date: 2022-12-15T00:07:15+03:00
 
 # Optional external URL for project (replaces project detail page).
@@ -40,7 +42,7 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['education']
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

@@ -6,7 +6,8 @@ active: true
 title: "Environnement"
 subtitle: Sensibiliser sur l'environnement grâce à l'art ✨ La protection de l'environnement est l'affaire de tous
 summary: ""
-authors: []
+authors: 
+  - 'ando-razafiaritsara'
 tags: 
   - environnement
 categories: 
@@ -42,7 +43,7 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['environnement']
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -66,11 +67,7 @@ Au cours de ces six mois d’ateliers, l’artiste formateur PONK, accompagnés 
 
 Art pour l’environnement est un projet innovant par le fait qu’on utilise l’art pour sensibiliser les enfants sur les questions environnementales. Les séances de sensibilisation par une experte en la matière permettent une meilleure assimilation par les élèves des enjeux importants sur la protection de la nature. Ainsi, ils peuvent contribuer effectivement à émettre des avis intéressants sur les scénarios du livre illustré dont l’équipe ALFA prépare le scénario. De plus, dessiner permet aux enfants de s’exprimer, de s’épanouir et de  développer leur propre personne, apprendre de nouvelles connaissances d’une façon ludique et acquérir des compétences artistiques. Enfin, en reboisant 500 plants permettra de mettre en pratique tous les acquis en faisant participer les parents d’élèves. 
 
-
-
-
-
-**Avancées du projet :**
+## Avancées du projet :
 
 Depuis l’octroi de la subvention par l’Ambassade de France, ALFA a pu :
 
@@ -87,9 +84,7 @@ Depuis l’octroi de la subvention par l’Ambassade de France, ALFA a pu :
 * Réaliser une vidéo de capitalisation avec un vidéaste professionnel
 * Imprimer et distribuer 50 exemplaires du livre "Itrimobe et Sohitika" aux bénéficiaires et acteurs du projet
 
-
-
-**Difficultés rencontrées :**
+## Difficultés rencontrées :
 
 * Budget des imprévus
 * Inflation (hausse des coûts)

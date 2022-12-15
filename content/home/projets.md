@@ -14,7 +14,7 @@ content:
     - name: Environnement
       tag: environnement
     - name: Éducation
-      tag: education
+      tag: éducation
     - name: Santé & Hygiène
       tag: santé
     - name: Promotion de la jeunesse

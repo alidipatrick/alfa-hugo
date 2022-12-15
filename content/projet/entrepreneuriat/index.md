@@ -6,7 +6,8 @@ active: true
 title: "Entrepreneuriat"
 summary: ""
 authors: []
-tags: []
+tags: 
+  - entrepreneuriat
 categories: []
 date: 2022-12-15T00:36:19+03:00
 

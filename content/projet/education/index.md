@@ -6,7 +6,8 @@ active: true
 title: "Éducation"
 summary: ""
 authors: []
-tags: []
+tags: 
+  - éducation
 categories: []
 date: 2022-12-15T00:07:15+03:00
 

@@ -6,7 +6,8 @@ active: true
 title: "Promotion de la Jeunesse"
 summary: ""
 authors: []
-tags: []
+tags: 
+  - jeunesse
 categories: []
 date: 2022-12-15T00:36:10+03:00
 

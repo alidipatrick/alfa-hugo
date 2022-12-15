@@ -6,7 +6,8 @@ active: true
 title: "Sante & Hygiène"
 summary: ""
 authors: []
-tags: []
+tags: 
+  - santé
 categories: []
 date: 2022-12-15T00:35:56+03:00
 

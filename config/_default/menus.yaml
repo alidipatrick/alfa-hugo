@@ -55,5 +55,5 @@ main:
     parent: blog
   - name: Contact
     pre: '<i class="fa fa-envelope"></i>&nbsp;'
-    url: '/contact'
+    url: '/#contact'
     weight: 60

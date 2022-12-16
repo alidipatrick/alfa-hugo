@@ -10,8 +10,8 @@ role: Responsable financier
 
 # Organizations/Affiliations
 organizations:
-  - name: ALFA MAdagascar
-    url: ''
+  - name: ALFA Madagascar
+    url: '/'
   - name: OLO Blaky
     url: https://oloblaky.com/
   - name: KatZenJam

@@ -10,7 +10,7 @@ headless: true
 active: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 35
 
 title: '<div style="padding: 2vw 0;">Derniers articles</div>'
 subtitle: ''
@@ -39,7 +39,7 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: card
+  view: showcase
   columns: '1'
   flip_alt_rows: true
   background: {}

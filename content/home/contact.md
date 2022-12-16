@@ -7,7 +7,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 10
+weight: 50
 
 title: Contact
 subtitle:
@@ -24,7 +24,7 @@ content:
     - icon: facebook
       icon_pack: fab
       name: ALFA Madagascar sur Facebook
-      link: 'https://www.facebook.com/ALFA-Madagascar-103852947735216'
+      link: '/#facebook'
   # Automatically link email and phone or display as text?
   autolink: true
 

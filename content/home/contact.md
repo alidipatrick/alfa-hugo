@@ -15,12 +15,17 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
   email: alfamada261@gmail.com
-  appointment_url: 'https://calendly.com'
+  phone: '+261346750686'
+  appointment_url: #'https://calendly.com'
   contact_links:
-    - icon: comments
-      icon_pack: fas
-      name: Discuss on the forum
-      link: 'https://github.com/wowchemy/wowchemy-hugo-themes/discussions'
+#   - icon: comments
+#     icon_pack: fas
+#     name: Discuss on the forum
+#     link: 'https://github.com/wowchemy/wowchemy-hugo-themes/discussions'
+    - icon: whatsapp
+      icon_pack: fab
+      name: Contactez-nous sur WhatsApp
+      link: 'https://wa.me/261346750686'
     - icon: facebook
       icon_pack: fab
       name: ALFA Madagascar sur Facebook

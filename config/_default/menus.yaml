@@ -24,7 +24,7 @@ main:
     weight: 10
     parent: projets
   - name: Éducation
-    pre: '<i class="fa fa-chalkboard-user"></i>&nbsp;'
+    pre: '<i class="fa fa-graduation-cap"></i>&nbsp;'
     url: '/project/education'
     weight: 20
     parent: projets
@@ -48,10 +48,15 @@ main:
     url: '/post'
     weight: 30
     parent: blog
+  - name: L’équipe
+    pre: '<i class="fa fa-user-group"></i>&nbsp;'
+    url: '/#people'
+    weight: 40
+    parent: blog
   - name: Slides
     pre: '<i class="fa fa-display"></i>&nbsp;'
     url: '/slides/example/'
-    weight: 40
+    weight: 60
     parent: blog
   - name: Contact
     pre: '<i class="fa fa-envelope"></i>&nbsp;'

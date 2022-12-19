@@ -24,6 +24,8 @@ design:
   spacing:
     padding: ['20px', '0', '20px', '0']
 advanced:
-  css_class: fullscreen
+  css_class: #fullscreen
 ---
-<iframe loading="lazy" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FALFA-Madagascar-103852947735216&tabs=timeline,messages&width=380&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId" width="380" height="500" style="text-align:center; border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<div id="fb-root" ></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v15.0" nonce="eOlq0nAY"></script>
+<div class="fb-page" data-lazy="true" data-href="https://www.facebook.com/ALFA-Madagascar-103852947735216" data-tabs="timeline,messages" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/ALFA-Madagascar-103852947735216" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/ALFA-Madagascar-103852947735216">ALFA Madagascar</a></blockquote></div>

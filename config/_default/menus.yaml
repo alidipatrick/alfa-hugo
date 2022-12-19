@@ -34,12 +34,12 @@ main:
     weight: 30
     parent: projets
   - name: Jeunesse
-    pre: '<i class="fa fa-children"></i>&nbsp;'
+    pre: '🚸&nbsp;'
     url: '/project/jeunesse'
     weight: 40
     parent: projets
   - name: Entrepreneuriat
-    pre: '<i class="fa fa-person-digging"></i>&nbsp;'
+    pre: '💡&nbsp;'
     url: '/project/entrepreneuriat'
     weight: 50
     parent: projets
@@ -54,7 +54,7 @@ main:
     weight: 40
     parent: blog
   - name: Slides
-    pre: '<i class="fa fa-display"></i>&nbsp;'
+    pre: '🖵&nbsp;'
     url: '/slides/example/'
     weight: 60
     parent: blog

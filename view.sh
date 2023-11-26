@@ -1,1 +1,3 @@
-hugo server -p 4041 --disableFastRender --watch --printI18nWarnings -D --panicOnWarning
+#!/usr/bin/env bash
+environmt=${1:-development}
+hugo server --watch --disableFastRender -p 1316 --environment $environmt

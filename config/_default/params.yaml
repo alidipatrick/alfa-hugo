@@ -74,7 +74,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/starter-hugo-online-course'
+    url: 'https://github.com/alidipatrick/alfa-hugo'
     content_dir: content
     branch: main
   comment:

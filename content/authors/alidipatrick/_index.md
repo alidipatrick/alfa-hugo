@@ -83,15 +83,15 @@ user_groups:
 
 Bonjour, je me nomme Patrick.
 
-Je me déﬁnirais comme un [architecte informatique](https://alidipatrick.libre-techsolutions.com/post/lexique#architecte-informatique), exerçant un métier assimilable au [DevOps](https://alidipatrick.libre-techsolutions.com/post/lexique#devops) ou à un développeur [full-stack](https://alidipatrick.libre-techsolutions.com/fr/post/lexique#full-stack). En somme, j’implémente les logiciels libres et open source dans la vie personnelle et l’organisation.
+Je me déﬁnirais comme un [architecte informatique](https://libre-techsolutions.com/post/lexique#architecte-informatique), exerçant un métier assimilable au [DevOps](https://libre-techsolutions.com/post/lexique#devops) ou à un développeur [full-stack](https://libre-techsolutions.com/fr/post/lexique#full-stack). En somme, j’implémente les logiciels libres et open source dans la vie personnelle et l’organisation.
 
 Je suis professionnel dans ce domaine depuis 2013, initialement dans la gestion de parc informatique, l’administration système et réseaux, en passant par la vidéosurveillance.
 
 Depuis 2018, avec [LiBRE Tech Solutions](https://libre-techsolutions.com) je suis consultant et auto-entrepreneur, offrant la mise en œuvre de la direction du système d’information à travers la transformation digitale, les méthodes agiles et l’amélioration continue, l’infogérance, le Cloud Computing et l’auto-hébergement Internet.
 
 J’ai étudié dans le management, le marketing, l’audit et le contrôle de gestion. J’ai travaillé dans la microfinance et l’audit financier.
-Je suis aussi musicien, compositeur, arrangeur et guitariste dans les groupes [KatZenJam](https://katzenjam.com) et [OLO Blaky](https://oloblaky.com).
+Je suis aussi musicien, compositeur, arrangeur et guitariste dans les groupes [KatZenJam](https://katzenjam.com) et [OLO Blaky](https://facebook.com/oloblaky).
 
-J’enseigne aussi la [musique](https://alidipatrick.libre-techsolutions.com/course/musique/).
+J’enseigne aussi la [musique](https://libre-techsolutions.com/course/musique/).
 
-{{< icon name="paper-plane" pack="fas" >}} Vous pouvez me [contacter ici.](https://alidipatrick.libre-techsolutions.com/u/alidipatrick#contact)
+{{< icon name="paper-plane" pack="fas" >}} Vous pouvez me [contacter ici.](https://libre-techsolutions.com/u/alidipatrick#contact)

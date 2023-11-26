@@ -1,0 +1,10 @@
+.reveal .slide-background-content {
+    background-size: contain;
+}
+
+.reveal table {
+    font-size: small;
+}
+.reveal figure {
+    font-size: small;
+}

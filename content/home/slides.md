@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 99
 
 title:
 subtitle:
@@ -20,7 +20,7 @@ content:
   filters:
     folders:
       - slides
-    tag: ''
+    tag: 'alfa'
     category: ''
     publication_type: ''
     author: ''

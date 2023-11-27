@@ -29,17 +29,17 @@ main:
     weight: 20
     parent: projets
   - name: Santé & Hygiène
-    pre: '<i class="fa fa-shield-virus"></i>&nbsp;'
+    pre: '<i class="fa fa-hand-holding-medical"></i>&nbsp;'
     url: '/project/sante-hygiene'
     weight: 30
     parent: projets
   - name: Jeunesse
-    pre: '🚸&nbsp;'
+    pre: '<i class="fa fa-children"></i>&nbsp;'
     url: '/project/jeunesse'
     weight: 40
     parent: projets
   - name: Entrepreneuriat
-    pre: '💡&nbsp;'
+    pre: '<i class="fa fa-briefcase"></i>&nbsp;'
     url: '/project/entrepreneuriat'
     weight: 50
     parent: projets
@@ -54,7 +54,7 @@ main:
     weight: 70
     parent: projets
   - name: Slides
-    pre: '🖵&nbsp;'
+    pre: '<i class="fa fa-person-chalkboard"></i>&nbsp;'
     url: '/slides/alfa/'
     weight: 80
     parent: projets

@@ -30,7 +30,7 @@ abstract: >
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: 435318240_721001473572466_4954895101350295705_n.jpg
   focal_point: Smart
   preview_only: false
 date: 2024-04-19T17:56:45.773Z

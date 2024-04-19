@@ -35,6 +35,8 @@ event_url: https://www.facebook.com/events/3656517861329684
 publishDate: 2024-04-19T17:33:32.595Z
 draft: false
 featured: false
+authors:
+  - ando-razafiaritsara
 image:
   filename: 435318240_721001473572466_4954895101350295705_n.jpg
   focal_point: Smart

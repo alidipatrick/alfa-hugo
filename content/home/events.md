@@ -1,0 +1,47 @@
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+
+# This file represents a page section.
+headless: true
+
+# Activate this widget? true/false
+active: true
+
+# Order that this section appears on the page.
+weight: 25
+
+title: '<div style="padding: 2vw 0;">Évènements</div>'
+subtitle: ''
+
+content:
+  page_type: event
+  # Filter on criteria
+  filters:
+    folders:
+      - event
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 5
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+  archive:
+    enable: false
+
+design:
+  # Choose a view for the listings:
+  view: showcase
+  columns: '1'
+  flip_alt_rows: true
+  background: {}
+  spacing: {padding: [0, 0, 0, 0]}
+---

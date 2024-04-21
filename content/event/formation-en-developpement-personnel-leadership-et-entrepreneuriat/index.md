@@ -1,5 +1,5 @@
 ---
-title: FORMATION EN DEVELOPPEMENT PERSONNEL, LEADERSHIP ET ENTREPRENEURIAT
+title: FORMATION EN DÉVELOPPEMENT PERSONNEL, LEADERSHIP ET ENTREPRENEURIAT
 abstract: >+
   ALFA est une association investie dans le domaine de l’éducation et dans la
   promotion des jeunes.
@@ -30,7 +30,7 @@ location: Bibliothèque Nationale de Madagascar Anosy
 date: 2024-04-02T17:33:32.576Z
 date_end: 2024-04-24T21:00:00.000Z
 all_day: false
-event: FORMATION EN DEVELOPPEMENT PERSONNEL
+event: FORMATION EN DÉVELOPPEMENT PERSONNEL
 event_url: https://www.facebook.com/events/3656517861329684
 publishDate: 2024-04-19T17:33:32.595Z
 draft: false
@@ -56,7 +56,7 @@ suivant, qui aident effectivement à l’épanouissement personnel :
 
 **Pour qui la formation ?**
 La formation est ouverte au grand public. Elle cible principalement les étudiants et les professionnels en quête de savoir, savoir-vivre et savoir-être.
-Qui sont les intervenant?
+Qui sont les intervenants?
 
 * Ando Razafiaritsara, présidente de l'association ALFA Madagascar
 * Landy Miary Andrianaivosoa, consultante, experte en genre

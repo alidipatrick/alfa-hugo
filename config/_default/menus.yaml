@@ -43,21 +43,26 @@ main:
     url: '/project/entrepreneuriat'
     weight: 50
     parent: projets
-# - name: Articles
-#   pre: '<i class="fa fa-feather-pointed"></i>&nbsp;'
-#   url: '/post'
-#   weight: 30
-#   parent: blog
+  - name: Articles
+    pre: '<i class="fa fa-feather-pointed"></i>&nbsp;'
+    url: '/post'
+    weight: 20
+    parent: blog
+  - name: Évènements
+    pre: '<i class="fa fa-calendar-check"></i>&nbsp;'
+    url: '/event'
+    weight: 30
+    parent: blog
   - name: L’équipe de ALFA
     pre: '<i class="fa fa-user-group"></i>&nbsp;'
     url: '/#people'
     weight: 70
-    parent: projets
+    parent: blog
   - name: Slides
     pre: '<i class="fa fa-person-chalkboard"></i>&nbsp;'
     url: '/slides/alfa/'
     weight: 80
-    parent: projets
+    parent: blog
   - name: Contact
     pre: '<i class="fa fa-envelope"></i>&nbsp;'
     url: '/#contact'

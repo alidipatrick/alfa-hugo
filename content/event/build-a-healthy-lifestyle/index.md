@@ -24,8 +24,8 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2024-06-18T20:12:25Z
-date_end: 2024-06-18T20:12:25Z
+date: 2024-06-17T10:12:25Z
+date_end: 2024-06-25T16:12:25Z
 all_day: false
 
 # Schedule page publish date (NOT event date).
@@ -35,7 +35,7 @@ authors: []
 tags: []
 
 # Is this a featured event? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
